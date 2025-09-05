@@ -3,8 +3,8 @@
 ## Referensi Paper Akademik  
 **"Inovasi Pembelajaran Informatika di Sekolah Menengah Pertama"**  
 
-*Inovasi Pembelajaran Informatika di Sekolah Menengah Pertama: Tinjauan Publikasi 2023*  
-2024 | Journal of Innovation and Teacher Professionalism  
+[*Inovasi Pembelajaran Informatika di Sekolah Menengah Pertama: Tinjauan Publikasi 2023*  
+2024 | Journal of Innovation and Teacher Professionalism](https://journal3.um.ac.id/index.php/ppg/article/view/6109)
 
 ---
 
@@ -206,7 +206,7 @@ Inovasi pembelajaran Informatika di SMP masih didominasi pengembangan media, dan
 Saya adalah mahasiswa informatika semester 5. Buatlah ringkasan terstruktur dari paper yang saya upload berjudul "Inovasi Pembelajaran Informatika di Sekolah Menengah Pertama" dalam format berikut:  
 1. Latar belakang penelitian  
 2. Metode yang digunakan  
-3. Hasil dan kesimpulan
+3. Hasil dan kesimpulan  
 
 Gunakan bahasa yang sederhana dan mudah dimengerti serta tidak bertele-tele agar mudah dimengerti. Batasi ringkasan pada 200 kata.
 
