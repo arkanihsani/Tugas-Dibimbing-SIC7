@@ -3,8 +3,7 @@
 ## Referensi Paper Akademik  
 **"Inovasi Pembelajaran Informatika di Sekolah Menengah Pertama"**  
 
-[*Inovasi Pembelajaran Informatika di Sekolah Menengah Pertama: Tinjauan Publikasi 2023*  
-2024 | Journal of Innovation and Teacher Professionalism](https://journal3.um.ac.id/index.php/ppg/article/view/6109)
+[*Inovasi Pembelajaran Informatika di Sekolah Menengah Pertama: Tinjauan Publikasi 2023-2024 | Journal of Innovation and Teacher Professionalism*](https://journal3.um.ac.id/index.php/ppg/article/view/6109)
 
 ---
 
