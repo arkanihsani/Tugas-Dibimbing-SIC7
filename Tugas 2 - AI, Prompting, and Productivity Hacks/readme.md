@@ -206,7 +206,8 @@ Inovasi pembelajaran Informatika di SMP masih didominasi pengembangan media, dan
 Saya adalah mahasiswa informatika semester 5. Buatlah ringkasan terstruktur dari paper yang saya upload berjudul "Inovasi Pembelajaran Informatika di Sekolah Menengah Pertama" dalam format berikut:  
 1. Latar belakang penelitian  
 2. Metode yang digunakan  
-3. Hasil dan kesimpulan  
+3. Hasil dan kesimpulan
+Gunakan bahasa yang sederhana dan mudah dimengerti serta tidak bertele-tele agar mudah dimengerti. Batasi ringkasan pada 200 kata.
 
 <details>
 <summary>ChatGPT</summary>
