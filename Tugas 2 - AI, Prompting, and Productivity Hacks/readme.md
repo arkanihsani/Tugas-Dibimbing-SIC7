@@ -207,6 +207,7 @@ Saya adalah mahasiswa informatika semester 5. Buatlah ringkasan terstruktur dari
 1. Latar belakang penelitian  
 2. Metode yang digunakan  
 3. Hasil dan kesimpulan
+
 Gunakan bahasa yang sederhana dan mudah dimengerti serta tidak bertele-tele agar mudah dimengerti. Batasi ringkasan pada 200 kata.
 
 <details>
