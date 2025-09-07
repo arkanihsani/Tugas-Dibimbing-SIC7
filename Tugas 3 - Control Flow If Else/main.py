@@ -24,7 +24,7 @@ def kategori(bmi):
 print("Kalkulator BMI")
 
 # Input berat badan (kg) dan tinggi badan (cm)
-bb = float(input("Masukkan berat badan anda (kg) : "))
+bb = float(input("Masukkan berat badan anda (kg)  : "))
 tb = float(input("Masukkan tinggi badan anda (cm) : "))
 
 # Rumus BMI: berat badan / (tinggi badan dalam meter)^2

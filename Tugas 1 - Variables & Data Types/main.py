@@ -64,3 +64,4 @@ print(pesan_terima_kasih)
 
 print("-" * 52)
 print(f"Total Harga {nama_kopi} adalah Rp{total_harga_kopi}")
+print("-" * 52)
