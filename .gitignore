@@ -1,0 +1,3 @@
+# Ignore Python cache files in Tugas 5 - Functions & Reusability
+Tugas 5 - Functions & Reusability/__pycache__/
+Tugas 5 - Functions & Reusability/*.pyc
